@@ -1,0 +1,201 @@
+{
+  "id": "9c66d931-c47c-4384-b986-0fd9c6dda6a2",
+  "version": "2.0",
+  "name": "Editar",
+  "url": "http://192.168.1.5:8080",
+  "tests": [{
+    "id": "6b9d8404-5f22-4fbc-add1-7faa552e741e",
+    "name": "Editar",
+    "commands": [{
+      "id": "806d747d-eb56-4fec-91b8-aa188c243f1e",
+      "comment": "",
+      "command": "open",
+      "target": "http://192.168.1.5:8080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a0ebde04-ee9a-425c-ada5-89261c7a5d99",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1145x728",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c267711d-f2a9-4b94-aef0-64e7220f9e7d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cdk-focused > .mdc-button__label",
+      "targets": [
+        ["css=.cdk-focused > .mdc-button__label", "css:finder"],
+        ["xpath=//tr[2]/td[3]/a/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1bd87900-7bdb-47c6-bbfe-4df90f44f1e5",
+      "comment": "",
+      "command": "click",
+      "target": "name=nome",
+      "targets": [
+        ["name=nome", "name"],
+        ["css=div:nth-child(2) > .form-control", "css:finder"],
+        ["xpath=//input[@name='nome']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d2daca57-3e31-410d-977d-cf8ef3da89bc",
+      "comment": "",
+      "command": "click",
+      "target": "name=nome",
+      "targets": [
+        ["name=nome", "name"],
+        ["css=div:nth-child(2) > .form-control", "css:finder"],
+        ["xpath=//input[@name='nome']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "963cd390-4a18-461e-b95f-e4b2480bd437",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "name=nome",
+      "targets": [
+        ["name=nome", "name"],
+        ["css=div:nth-child(2) > .form-control", "css:finder"],
+        ["xpath=//input[@name='nome']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d84f5a89-910b-4af6-b58d-1dbed77aa136",
+      "comment": "",
+      "command": "click",
+      "target": "name=nome",
+      "targets": [
+        ["name=nome", "name"],
+        ["css=div:nth-child(2) > .form-control", "css:finder"],
+        ["xpath=//input[@name='nome']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ac375b11-c9f4-4fa5-a20c-12684a9281de",
+      "comment": "",
+      "command": "type",
+      "target": "name=nome",
+      "targets": [
+        ["name=nome", "name"],
+        ["css=div > .ng-dirty", "css:finder"],
+        ["xpath=//input[@name='nome']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "Vagner Love"
+    }, {
+      "id": "a32c4bfc-1c24-4c97-b1db-e5c3a347b4a5",
+      "comment": "",
+      "command": "click",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5b8b665e-195b-44d8-a788-a4532f975870",
+      "comment": "",
+      "command": "click",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d1eece16-83f7-4b22-a062-eea73b95d4c1",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e71e7d30-a1a8-4018-96ab-1766c5db88e5",
+      "comment": "",
+      "command": "click",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c7bebd92-facc-43f7-91dd-1872555a4b24",
+      "comment": "",
+      "command": "click",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1dbe424e-8f3a-468c-930f-bead7ed9b4c7",
+      "comment": "",
+      "command": "click",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c91c4ba7-6582-4f2c-b43a-adaa3b4082dd",
+      "comment": "",
+      "command": "type",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "Avenida do Maior do Nordeste"
+    }, {
+      "id": "7d55e719-ff1d-4d0d-845f-1aa2a1c2633f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Atualizar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "65be6176-1dec-4b2e-b351-4be736a4a4bc",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["6b9d8404-5f22-4fbc-add1-7faa552e741e"]
+  }],
+  "urls": ["http://192.168.1.5:8080/"],
+  "plugins": []
+}
